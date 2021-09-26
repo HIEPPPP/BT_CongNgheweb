@@ -42,6 +42,7 @@
             </div>
         </nav>
     </header>
+
     <main>
         <section class="explore">
             <div class="container">
